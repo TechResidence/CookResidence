@@ -1,0 +1,4 @@
+secret.py
+lib/**/*
+
+.DS_Store
